@@ -1,8 +1,8 @@
 module.exports = {
-TOKEN: "",
+TOKEN: "MTEwOTc4NDg1NzY2MTQxNTUxNQ.GZZrrh.WKayQhENhs8vxVIXUylkZPnlplABuYW1uxs1SQ",
 ownerID: [""], //write your discord user id. example: ["id"] or ["id1","id2"]
 botInvite: "", //write your discord bot invite.
-supportServer: "", //write your discord bot support server invite.
+supportServer: "1108721246419562526", //write your discord bot support server invite.
 mongodbURL: "", //write your mongodb url.
 status: '❤️ codeshare.me',
 commandsDir: './commands', //Please don't touch
